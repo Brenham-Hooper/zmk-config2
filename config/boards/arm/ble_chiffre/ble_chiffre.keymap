@@ -89,19 +89,19 @@
 		{
 			timeout-ms = <30>;
 			key-positions = <0 1>;
-			bindings = <&com_col GRAVE ESC>;
+			bindings = <&kp ESC>;
 		};
 		combo_tab 
 		{
 			timeout-ms = <35>;
-			key-positions = <11 12>;
+			key-positions = <10 11>;
 			bindings = <&kp TAB>;
 		};
 		combo_mnxt 
 		{
 			timeout-ms = <30>;
-			key-positions = <28 29>;
-			bindings = <&kp C_NEXT>;
+			key-positions = <18 19>;
+			bindings = <&kp RETURN>;
 		};
 		combo_mprev 
 		{
