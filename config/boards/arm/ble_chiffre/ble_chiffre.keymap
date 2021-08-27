@@ -137,7 +137,7 @@
     &mo NAV  &mo NUM_SYM &mt LEFT_SHIFT SPACE &kp LCTRL
             >;
         };
-a
+
     num_sym {
             bindings = <
     &kp EXCL &kp AT &kp HASH &kp DOLLAR &kp PERCENT &kp CARET &kp AMPS &kp STAR &kp LPAR &kp RPAR
