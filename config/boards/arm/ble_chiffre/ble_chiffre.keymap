@@ -134,7 +134,7 @@
     &kp Q &kp W &kp E &kp R &kp T &kp Y &kp U &kp I &kp O &kp P
     &kp A &kp S &kp D &kp F &kp G &kp H &kp J &kp K &kp L &kp SQT
     &kp Z &kp X &kp C &kp V &kp B &kp N &kp M &kp COMMA &kp PERIOD &kp SLASH
-    &mo NUM_SYM  &kp LSHIFT &kp SPACE &kp LCTRL
+    &mo NUM_SYM &kp LSHIFT &kp SPACE &kp LCTRL
             >;
         };
 
@@ -150,7 +150,7 @@
     nav {
             bindings = <
     &kp EXCL &kp PAGE_UP &kp UP &kp PAGE_DOWN &kp PERCENT &kp CARET &kp AMPS &kp STAR &kp LPAR &kp RPAR
-    &kp N1T &kp LEFT &kp DOWN &kp RIGHT &kp GRAVE &kp N6 &kp N7 &kp N8 &kp N9 &kp N0
+    &kp N1 &kp LEFT &kp DOWN &kp RIGHT &kp GRAVE &kp N6 &kp N7 &kp N8 &kp N9 &kp N0
     &kp DEL &none &kp LBKT &kp LPAR &kp UNDER &none &kp RPAR &kp RBKT &kp DOT &kp BSLH
     &none &kp LSHIFT &kp SPACE &kp LCTRL
             >;
